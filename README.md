@@ -20,7 +20,7 @@ This post is about creating an application similar to Netflix but for Anime only
 8. Azure DNS Zones
 9. Azure VNet
 
-# Procedure
+# Deployment steps
 # Azure:
 
 # MySQL Server:
