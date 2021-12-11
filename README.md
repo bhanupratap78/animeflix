@@ -45,7 +45,7 @@ Your deployment shall be created.
 
 ![](https://miro.medium.com/max/415/1*G42IVw4tL8UkNcobEPFq4g.png)
 
-Now, let’s add the movie files that we have previously put in the S3 storage. Firstly create a **Container** and upload files inside the **Container.**
+Now, let’s add the movie files available in movie folder, Firstly create a **Container** and upload files inside the **Container.**
 
 ![](https://miro.medium.com/max/700/1*rrRdSaIIeOFJpLm4POUnig.png)
 
